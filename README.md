@@ -2,6 +2,7 @@ Genel:
 * Geliştirilen proje bir Satrançta puan hesaplama projesidir.
 * C++ dili ile Visual Studio üzerinde geliştirilmiştir.
 * Her class'ın header dosyasında tüm tanımlamalar yapılmıştır.
+* Verilen örneklerde bazı hata mevcuttur. Onlar göz ardı edilmiştir.
 
 
 Çalışma ve Algoritma:
